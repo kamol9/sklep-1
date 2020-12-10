@@ -1,6 +1,7 @@
 {
   "env":
   {
-    "ATLAS_PWD": "shop"
+    "ATLAS_PWD": "shop",
+    "JWT_KEY": "klucz"
   }
 }
